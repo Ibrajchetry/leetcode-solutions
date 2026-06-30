@@ -7,7 +7,7 @@ public:
             last[s[i] - 'a'] = i;
 
             if (last[0] != -1 && last[1] != -1 && last[2] != -1) {
-                count += min({last[0],last[1],last[2]}) + 1;
+                count += min(last[0], min(last[1], last[2])) + 1;
             }
         }
 
