@@ -1,7 +1,7 @@
 class Solution {
 public:
     int numberOfSubstrings(string s) {
-        int last[]={-1,-1,-1}; // last occurrence of a, b, c
+        int last[3]={-1,-1,-1}; // last occurrence of a, b, c
         int count = 0;
 
         for (int i = 0; i < s.length(); i++) {
