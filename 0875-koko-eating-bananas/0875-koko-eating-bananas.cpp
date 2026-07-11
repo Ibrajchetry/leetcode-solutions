@@ -16,10 +16,7 @@ public:
             mid = start + (end - start)/2;
             long long total_time=0;
             for(int i=0 ; i < piles.size();i++){
-                if(mid != 0){
                     total_time+=piles[i]/mid;
-                }
-                
                 if(piles[i]%mid){
                     total_time++;   // if element is odd
                 }
