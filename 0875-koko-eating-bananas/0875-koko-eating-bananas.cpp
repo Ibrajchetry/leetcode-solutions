@@ -9,17 +9,21 @@ public:
             end=max(end,piles[i]); // end will be max value
         }
         start/=h; // to find start will be sum of array divide by h 
-        if(!start){
-            start=1;
-        }
+        if(!start){}
         while(start <= end){
             mid = start + (end - start)/2;
             long long total_time=0;
+            if(!start){
+                start=1;
+            }
             for(int i=0 ; i < piles.size();i++){
-                    total_time+=piles[i]/mid;
-                if(piles[i]%mid){
-                    total_time++;   // if element is odd
+                if(mid != 0){
+                    total_time+=piles[i]/mid;            
+                    if(piles[i]%mid){
+                        total_time++;   // if element is odd
+                    }
                 }
+ 
             }
 
             if(total_time <= h){  //
