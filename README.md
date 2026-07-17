@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Ibrajchetry/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ibrajchetry/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Ibrajchetry/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ibrajchetry/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Ibrajchetry/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Ibrajchetry/leetcode-solutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
