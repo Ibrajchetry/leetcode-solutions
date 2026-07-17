@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Ibrajchetry/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Ibrajchetry/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ibrajchetry/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Ibrajchetry/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
@@ -27,5 +28,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Ibrajchetry/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Ibrajchetry/leetcode-solutions/tree/master/0283-move-zeroes) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Ibrajchetry/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
