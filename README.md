@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ibrajchetry/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ibrajchetry/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Ibrajchetry/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Ibrajchetry/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Ibrajchetry/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Ibrajchetry/leetcode-solutions/tree/master/0724-find-pivot-index) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Ibrajchetry/leetcode-solutions/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Ibrajchetry/leetcode-solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
