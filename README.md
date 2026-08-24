@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Ibrajchetry/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ibrajchetry/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ibrajchetry/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2785-sort-vowels-in-a-string](https://github.com/Ibrajchetry/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Ibrajchetry/leetcode-solutions/tree/master/0075-sort-colors) |
+| [2785-sort-vowels-in-a-string](https://github.com/Ibrajchetry/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
